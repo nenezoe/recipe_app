@@ -6,17 +6,20 @@ A new Flutter project that gives you food recipes and how to prepare it, and it 
 
 ## 💪: ability to:
 - show welcome screen
-- show registyration screen
+- show registration screen
 - show login screen
 - show search food recipe
 - show various foods and how to prepare them
 
 ---------
 
+### 📷: Screenshots:
 
-This project is a starting point for a Flutter application.
+### ⚡: Packages used:
+- [HTTP](https://pub..dev/packages/http) - For making http calls to the server
+- [firebase-auth] (https://pub..dev/packages/firebase-auth)- for users authentication
+- [firebase-core]
 
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
