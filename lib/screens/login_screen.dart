@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:recipe_app/constants.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:recipe_app/screens/home_screen.dart';
+import 'package:recipe_app/screens/search_screen.dart';
 // import 'package:modal_progress_hud/modal_progress_hud.dart';
 
 class LoginScreen extends StatefulWidget {
@@ -46,6 +47,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 },
                 decoration: InputDecoration(
                   hintText: 'Enter your email',
+                  fillColor: Colors.black,
                   contentPadding: EdgeInsets.symmetric(vertical: 10.0, horizontal: 20.0),
                   border: OutlineInputBorder(
                     borderRadius: BorderRadius.all(Radius.circular(32.0)),
@@ -73,6 +75,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 },
                 decoration: kTextFieldDecoration.copyWith(
                   hintText: 'Enter your password',
+                  fillColor: Colors.black
                 ),
               ),
               SizedBox(
@@ -93,7 +96,7 @@ class _LoginScreenState extends State<LoginScreen> {
                         final user =  _auth.signInWithEmailAndPassword(
                             email: email, password: password);
                         if (user != null) {
-                          Navigator.pushNamed(context, HomeScreen.id);
+                          Navigator.pushNamed(context, SearchScreen.id);
                         }
                         // setState(() {
                         //   showSpinner = false;
