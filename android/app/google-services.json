@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202077391533",
+    "project_id": "helloworld-d1784",
+    "storage_bucket": "helloworld-d1784.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202077391533:android:2101a30201b345864e1424",
+        "android_client_info": {
+          "package_name": "com.nene.recipe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202077391533-ksf1g91fikbj9fr3k39eare9o0l5jrqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw0j9lSfR7aHOi4F6t-tllR6n4yiyE3vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202077391533-ksf1g91fikbj9fr3k39eare9o0l5jrqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
