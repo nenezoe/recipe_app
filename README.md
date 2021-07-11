@@ -1,8 +1,18 @@
-# recipe_app
+# recipe_app 🥘
 
-A new Flutter project.
+A new Flutter project that gives you food recipes and how to prepare it, and it shows the amount of calories for each food you want to prepare
 
-## Getting Started
+-------
+
+## 💪: ability to:
+- show welcome screen
+- show registyration screen
+- show login screen
+- show search food recipe
+- show various foods and how to prepare them
+
+---------
+
 
 This project is a starting point for a Flutter application.
 
