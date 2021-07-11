@@ -1,3 +1,4 @@
+![recipe](https://user-images.githubusercontent.com/76845356/125208572-360bb300-e28b-11eb-9636-8ae15255ac6a.jpg)
 # recipe_app 🥘
 
 A new Flutter project that gives you food recipes and how to prepare it, and it shows the amount of calories for each food you want to prepare
@@ -14,6 +15,10 @@ A new Flutter project that gives you food recipes and how to prepare it, and it 
 ---------
 
 ### 📷: Screenshots:
+![recipe](https://user-images.githubusercontent.com/76845356/125208578-3c019400-e28b-11eb-91ad-4b7b79ee44f6.jpg)
+
+
+
 
 ### ⚡: Packages used:
 - [HTTP](https://pub..dev/packages/http) - For making http calls to the server
