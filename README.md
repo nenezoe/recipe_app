@@ -1,4 +1,4 @@
-![recipe](https://user-images.githubusercontent.com/76845356/125208572-360bb300-e28b-11eb-9636-8ae15255ac6a.jpg)
+
 # recipe_app 🥘
 
 A new Flutter project that gives you food recipes and how to prepare it, and it shows the amount of calories for each food you want to prepare
