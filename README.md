@@ -16,6 +16,9 @@ A new Flutter project that gives you food recipes and how to prepare it, and it 
 
 ### 📷: Screenshots:
 
+![recipenow](https://user-images.githubusercontent.com/76845356/125215008-e2609000-e2b1-11eb-8879-a5e530c20209.jpg)
+
+
 
 ![recipe2](https://user-images.githubusercontent.com/76845356/125214794-e0e29800-e2b0-11eb-986d-b63881215459.jpg)
 
